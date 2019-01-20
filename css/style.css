@@ -1,0 +1,14 @@
+.bigFont {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.headFont {
+    font-size: 22px;
+    font-weight: bold;
+    color: rgb(1, 78, 8); 
+}
+
+.hidden {
+    display: none;
+}
